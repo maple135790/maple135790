@@ -1,12 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
 **Novice** : ASM, C, JS
 
 **Proficient** : flutter, python 
 
-- 👯 I’m looking to collaborate on DDR or jubeat score management tool using flutter
-- 📫 How to reach me: make a pull request on these projects to notice me
-## 😄 Pronouns: 
+
+#### Looking for: 
+- collaborate member on DDR or jubeat score management tool project using flutter.
+
+contact me via mail, under my bio.
+#### Pronouns: 
 - STAr Technologies as Quality Assurance Engineer
 - Phygitalker as front-end dev team member, flutter web and mobile developer
 <!-- - ⚡ Fun fact: ... -->
