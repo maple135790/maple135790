@@ -6,7 +6,7 @@
 
 
 #### Looking for: 
-- collaborate member on DDR or jubeat score management tool project using flutter.
+- collaborate member on DDR or jubeat score management tool project using flutter(private).
 
 contact me via mail, under my bio.
 #### Pronouns: 
